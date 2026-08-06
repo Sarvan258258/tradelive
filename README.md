@@ -2,4 +2,3 @@
 Stories: login, portfolio, buy, sell, history
 Edited on github by 323103310041
 Buy order rule: Quantity must be greather than zero
-a line we will undo publicly
